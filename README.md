@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Nabil Ouhmida</h1>
+<h1 align="center">Hi 👋, I'm Nabil Ouhmida <i class="em em-flag-ma" aria-role="presentation" aria-label="Morocco Flag"></i></h1>
 <h3 align="center">A passionate Full Stack Web developer from Morocco</h3>
 
 - 🌱 I’m currently learning **Next js**
