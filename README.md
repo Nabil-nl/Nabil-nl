@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nabil Ouhmida <i class="em em-flag-ma" aria-role="presentation" aria-label="Morocco Flag"></i></h1>
+<h1 align="center">Hi <span class="emoji wave" role="img" aria-label="hand wave"></span>, I'm Nabil Ouhmida <i class="em em-flag-ma" aria-role="presentation" aria-label="Morocco Flag"></i></h1>
 <h3 align="center">A passionate Full Stack Web developer from Morocco</h3>
 
 - 🌱 I’m currently learning **Next js**
