@@ -1,5 +1,7 @@
-<h1 align="center">Hi <span class="emoji wave" role="img" aria-label="hand wave"></span>, I'm Nabil Ouhmida <i class="em em-flag-ma" aria-role="presentation" aria-label="Morocco Flag"></i></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=CEF73B&background=BBFF2700&center=true&repeat=false&random=true&width=436&height=51&lines=A+passionate+Full+Stack+Web+developer" alt="Typing SVG" /></a>
+<h1 align="center">Hi <span class="emoji wave" role="img" aria-label="hand wave"></span>, I'm Nabil Ouhmida </h1>
+ <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=6000&pause=1000&color=B6F73D&background=FFFFFF00&random=false&width=435&lines=A+Passionate+Full+Stack+Web+Developer++" alt="Typing SVG" /></a>
+
 - 🌱 I’m currently learning **Next js**
 - 📫 How to reach me **nabilouhmida9@gmail.com**
 
