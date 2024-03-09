@@ -1,5 +1,6 @@
 <h1 align="center">Hi <span class="emoji wave" role="img" aria-label="hand wave"></span>, I'm Nabil Ouhmida <i class="em em-flag-ma" aria-role="presentation" aria-label="Morocco Flag"></i></h1>
-<h3 align="center">A passionate Full Stack Web developer from Morocco</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=CEF73B&background=BBFF2700&center=true&repeat=false&random=true&width=436&height=51&lines=A+passionate+Full+Stack+Web+developer" alt="Typing SVG" /></a>
+
 
 - 🌱 I’m currently learning **Next js**
 
@@ -7,7 +8,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nabil ouhmida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil ouhmida" height="30" width="40" /></a>
+ <p align="center">
+   <a href="https://linkedin.com/in/nabil ouhmida" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nabil ouhmida"/>
+ </a>
+
 
 <h3 align="left">Use To Code : </h3>
 <div = "tech"><img alt="Static Badge" src="https://img.shields.io/badge/React-%2300CCFF?style=for-the-badge&logo=react&logoColor=%2300CCFF&labelColor=black&color=%2300CCFF"> <img alt="Static Badge" src="https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel&logoColor=black&labelColor=%23ff0202&color=black">   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=%23fff02b&labelColor=black&color=%23fff02b">
