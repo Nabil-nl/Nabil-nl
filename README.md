@@ -25,6 +25,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/tailwind%20css-%2386e7ff?style=for-the-badge&logo=tailwind%20css&logoColor=%2386e7ff&labelColor=black&color=%2386e7ff">
 <img alt="Static Badge" src="https://img.shields.io/badge/langage%20c-%233276b4?style=for-the-badge&logo=c&logoColor=%233276b4&labelColor=langage%20c&color=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/linux-%23ffc821?style=for-the-badge&logo=linux&logoColor=black&labelColor=%23ffc821&color=%23ffc821">
+<img alt="Static Badge" src="https://img.shields.io/badge/docker-%2358aaf5?style=for-the-badge&logo=docker&logoColor=%2358aaf5&labelColor=white&color=%2358aaf5">
 
 
 
@@ -37,7 +38,8 @@
 
 
 
-</div>;
+
+</div>
 
 
 
