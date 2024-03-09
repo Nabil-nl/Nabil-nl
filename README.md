@@ -1,9 +1,6 @@
 <h1 align="center">Hi <span class="emoji wave" role="img" aria-label="hand wave"></span>, I'm Nabil Ouhmida <i class="em em-flag-ma" aria-role="presentation" aria-label="Morocco Flag"></i></h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=CEF73B&background=BBFF2700&center=true&repeat=false&random=true&width=436&height=51&lines=A+passionate+Full+Stack+Web+developer" alt="Typing SVG" /></a>
-
-
 - 🌱 I’m currently learning **Next js**
-
 - 📫 How to reach me **nabilouhmida9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
