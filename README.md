@@ -31,6 +31,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/linux-%23ffc821?style=for-the-badge&logo=linux&logoColor=black&labelColor=%23ffc821&color=%23ffc821">
 <img alt="Static Badge" src="https://img.shields.io/badge/docker-%2358aaf5?style=for-the-badge&logo=docker&logoColor=%2358aaf5&labelColor=white&color=%2358aaf5">
 <img alt="Static Badge" src="https://img.shields.io/badge/npm-%23white?style=for-the-badge&logo=npm&logoColor=%23ff2e00&labelColor=white&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/uml-%23white?style=for-the-badge&logo=uml&logoColor=%23ffcb2b&labelColor=%2379004a&color=%235b31c5">
+
 
 
 
