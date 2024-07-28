@@ -1,4 +1,4 @@
-# NABIL BABIL
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=39D353&vCenter=true&width=435&lines=NABIL+BABIL" alt="Typing SVG" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nabil-nl/snake-/main/github-snake-dark.svg" />
