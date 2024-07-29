@@ -1,6 +1,8 @@
-<a href="https://github.com/Nabil-nl">
+<p align="center">
+  <a href="https://github.com/Nabil-nl">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=39D353&vCenter=true&width=435&lines=NABIL+BABIL" alt="Typing SVG" />
-</a>
+  </a>
+</p>
 
 <h1>  </h1>
 <picture>
