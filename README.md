@@ -10,7 +10,7 @@
    <a href="https://discord.com/users/468394367153995776">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:nailouhmida9@gmail.com">
       <img src="https://img.shields.io/badge/Email-16DB65?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
       <img src="https://komarev.com/ghpvc/?username=Nabil-nl&style=for-the-badge&color=16DB65" alt="Profile Views" />
