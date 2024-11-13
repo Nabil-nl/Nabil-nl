@@ -40,7 +40,7 @@
   
   <h3>🚀 Frameworks & Libraries</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=vue,laravel,alpinejs,tailwind,bootstrap,sass,nodejs&theme=dark" alt="frameworks and libraries" />
+    <img src="https://skillicons.dev/icons?i=vue,react,laravel,alpinejs,tailwind,bootstrap,sass,nodejs&theme=dark" alt="frameworks and libraries" />
   </p>
   
   <h3>💾 Databases</h3>
