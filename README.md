@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bold&pause=1000&color=16DB65&width=435&lines=Junior FULL+STACK+WEB+DEVELOPER;JavaScript+%7C+PHP+%7C+Node.js;VUE.js+%7C+Laravel+%7C+React.js;Always+learning+new+technologies" alt="Typing SVG" /></a>
 
   <div>
-    <a href="https://linkedin.com/in/nabilouhmida">
+    <a href="https://linkedin.com/in/nabil-ouhmida">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
    <a href="https://discord.com/users/468394367153995776">
