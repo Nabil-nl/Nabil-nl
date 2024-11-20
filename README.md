@@ -25,7 +25,7 @@
       <ul align="left">
         <li>🎓 Training at <b>OFPPT</b> and <b>Simplon Maghreb</b></li>
         <li>💻 Junior Full Stack Web Developer skilled in Laravel and Vue.js</li>
-        <li>🌐 Visit my website: <a href="YOUR_LINK_HERE">my portfolio</a></li>
+        <li>🌐 Visit my website: <a href="https://www.nabilouhmida.me">my portfolio</a></li>
         <li>📧 Contact me: <a href="mailto:nabilouhmida9@gmail.com">nabilouhmida9@gmail.com</a></li>
       </ul>
     </div>
